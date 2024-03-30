@@ -1,5 +1,3 @@
-# WorldHappiness
-
 # Exploring World Happiness: Between the Shadows of 2020 to the Dawn of 2023
 By: Shengjie Liu
 # Introduction:
